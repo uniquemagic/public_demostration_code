@@ -7,3 +7,5 @@ Contains services and interfaces for different goals
 2. Money (provides static methods)
 3. Parser
 4. Document (provides Word template generator)
+
+...

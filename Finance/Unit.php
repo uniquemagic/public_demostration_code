@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Interfaces;
+namespace App\Entities\Finance;
 
-interface NumberInterface
+class Unit
 {
     public const MIN_VALUE = 0;
     public const MAX_VALUE = 9999;
